@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590145673027",
+    "project_id": "gowheels-a67ab",
+    "storage_bucket": "gowheels-a67ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590145673027:android:cc546edf8551e0f81141f6",
+        "android_client_info": {
+          "package_name": "com.example.go_wheels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590145673027-hlmbdorha2mvbifnra0o4l8h8mt39fsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDc-aZz0Czp1A_k9c3zzohSpQaNqMw6X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590145673027-hlmbdorha2mvbifnra0o4l8h8mt39fsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

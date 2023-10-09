@@ -1,0 +1,4 @@
+enum sharedPrefernecesKeys{
+  isLogIn,
+  email
+}
